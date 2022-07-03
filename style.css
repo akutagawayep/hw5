@@ -1,0 +1,21 @@
+   
+    body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #90C8AC;
+    }
+    .title{
+    font-size: 23px;
+    }
+    .text {
+   color: #C4DFAA;
+    line-height: 1.5;
+    text-align: center;
+    text-emphasis-color:#73A9AD;
+    }
+    .advert{
+        width: 500px; height: 500px;
+        text-align: center;}
+    
+      
